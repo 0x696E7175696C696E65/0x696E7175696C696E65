@@ -7,6 +7,9 @@
 ### Aspiring SOC Analyst
 Passionate about monitoring threats, triaging alerts, and building secure environments. Running a personal **homelab** focused on real-world defense-in-depth, zero-trust principles, and proactive hardening.
 
+
+I plan to contribute to a more secure and open world via open source software!
+
 ---
 
 ## Technical Skills

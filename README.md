@@ -54,17 +54,8 @@ I plan to contribute to a more secure and open world via open source software!
 - **Cisco Introduction to Cybersecurity**  
 - **Cisco IT Customer Support Basics**  
 - **Board Infinity Kali Linux**
+- **kennesaw State University The GRC Approach to Managing Cybersecurity**
 
----
-
-### 🛠️ Homelab & Key Projects
-- **Secure Homelab SOC-Style Setup**  
-  → Proxmox cluster with public services reverse-proxied through BunkerWeb + CrowdSec IPS → Cloudflared tunnels  
-  → Real-time threat blocking, automated failover backups, constant patching & monitoring  
-- **Network Defense Lab**  
-  → UniFi USG-Pro-4 as core router/firewall + segmented VLANs + mesh wireless  
-
-*(Planning detailed incident write-ups, alert examples, and detection rules — stay tuned!)*
 
 ---
 

@@ -59,7 +59,4 @@ I plan to contribute to a more secure and open world via open source software!
 
 ---
 
-### 📫 Let's Connect
-- **Email** → contact@inquiline.org
-
 > "Security is not a product, but a process." – Bruce Schneier
